@@ -25,6 +25,7 @@ But, this method was hard to get accurate map in long time sequence images. So, 
 To make localizatio easy, we applied QR code method. 
 First, we made QR code that contains location of each waypoints in indoor environment.
 And then, put a qr code on the ceiling. When user pass through the waypoints, camera recognizes the QR code and get current location from the QR code.
+
 ![image](https://github.com/gigohe2/2023_Echo-project_Where-are-you-go/assets/59073888/86dfc840-bd53-4884-9e08-e6e57923bfff)
 
 This is the map for our test bed. User can set a destination by push the tact switch on breadboard.
