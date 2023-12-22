@@ -36,5 +36,6 @@ This is the map for our test bed. User can set a destination by push the tact sw
 We used jetson nano development kit, raspberry pi cam, 4 x tact switch, buzzer.
 By camera, jetson decodes the QR code and update the current location on map.
 And Jetson provides navigation services to users through buzzer sounds.
+
 ![image](https://github.com/gigohe2/2023_Echo-project_Where-are-you-go/assets/59073888/65891056-911e-40ab-9881-d3ad5a6d8c53)
 
